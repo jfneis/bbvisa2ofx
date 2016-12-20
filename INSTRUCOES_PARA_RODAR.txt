@@ -1,0 +1,2 @@
+Pela linha de comando, acessar a pasta \bin
+Rodar python bbvisa2ofx_cli nomeDoArquivo.txt
